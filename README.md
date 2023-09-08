@@ -1,13 +1,11 @@
 Oi Oi amigos 👋
 
-I'm a junior software developer learning everything I can about Flutter 💙. I started as a manual software tester and moved into automated software tester to junior developer in my current job. I couldn't be more happier. 
+I'm a junior software developer learning everything I can about Flutter 💙. I started as a manual software tester and moved from an automated software tester to a junior developer in my current job. I couldn't be more happier. 
 
 
 🔭 I’m currently working on my personal App
 
-🌱 I’m learning more about Flutter. Everything I can learn I will.
+🌱 I’m learning and enjoying Flutter every day.
 
-🤔 I’m looking for help with Flutter. Currently enjoying Andrea Course and tips and tricks.
-
-⚡ Fun fact: I love learning. If I don't learn a new thing every once in a while I am wasting my time. 
+⚡ Fact: I love learning, building new stuff and gaming. 
 
