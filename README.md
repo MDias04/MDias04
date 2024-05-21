@@ -1,7 +1,6 @@
 Oi Oi amigos 👋
 
-I'm a junior software developer learning everything I can about Flutter 💙. I started as a manual software tester and moved from an automated software tester to a junior developer in my current job. I couldn't be more happier. 
-
+I'm a junior software developer learning everything I can about Flutter 💙. I began my career as a manual software tester, transitioned to automated testing, and now I'm thriving as a junior developer. I couldn't be happier.
 
 🔭 I’m always working on something.
 
